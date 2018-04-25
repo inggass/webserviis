@@ -1,0 +1,27 @@
+untuk cek rest server
+dosen
+http://localhost/rest_server/index.php/dosen
+
+mahasiswa 
+http://localhost/rest_server/index.php/mahasiswa
+
+krs
+http://localhost/rest_server/index.php/Krs
+
+mata_kuliah
+http://localhost/rest_server/index.php/mata_kuliah
+
+-------------------------------------------------------------------------------
+cek rest client
+mahasiswa
+http://localhost/rest_client/index.php/mahasiswa
+
+dosen
+http://localhost/rest_client/index.php/Dosen
+
+mata_kuliah
+http://localhost/rest_client/index.php/mata_kuliah
+
+krs
+
+http://localhost/rest_client/index.php/krs
